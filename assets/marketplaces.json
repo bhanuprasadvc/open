@@ -1,0 +1,87 @@
+{
+    "Marketplaces": {
+      "Indian E-commerce Platforms": [
+        {
+          "name": "Amazon India",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        },
+        {
+          "name": "Flipkart",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flipkart_logo.png"
+        },
+        {
+          "name": "Snapdeal",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Snapdeal_logo.png"
+        },
+        {
+          "name": "Nykaa",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Nykaa_logo.png"
+        },
+        {
+          "name": "Craftsvilla",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Craftsvilla_logo.png"
+        },
+        {
+          "name": "Indiamart",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Indiamart_logo.png"
+        },
+        {
+          "name": "ShopClues",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/ShopClues_logo.png"
+        },
+        {
+          "name": "Patanjali Ayurved",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Patanjali_Ayurved_logo.png"
+        },
+        {
+          "name": "Bigbasket",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/BigBasket_logo.png"
+        },
+        {
+          "name": "Meesho",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Meesho_logo.png"
+        },
+        {
+          "name": "1mg",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/1mg_Logo.png"
+        },
+        {
+          "name": "Organic Tattva",
+          "logo_url": "https://www.organictattva.com/wp-content/uploads/2019/10/Organic-Tattva-logo.png"
+        },
+        {
+          "name": "Pikify",
+          "logo_url": "https://www.pikify.com/images/pikify_logo.png"
+        },
+        {
+          "name": "Blinkit",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Blinkit_logo.png"
+        },
+        {
+          "name": "Dunzo",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Dunzo_logo.png"
+        },
+        {
+          "name": "Swiggy Instamart",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Swiggy_logo.png"
+        },
+        {
+          "name": "Zepto",
+          "logo_url": "https://zepto.com/assets/zepto-logo.png"
+        },
+        {
+          "name": "BigBasket (BB Express)",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/BigBasket_logo.png"
+        },
+        {
+          "name": "Milkbasket",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Milkbasket_logo.png"
+        },
+        {
+          "name": "JioMart",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/JioMart_Logo.png"
+        }
+      ]
+    }
+  }
+  
